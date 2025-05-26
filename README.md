@@ -13,6 +13,9 @@ Hagai Rappeport and Mor Nitzan
 This project implements a computational framework to study the evolution of biological complexity through the lens of **implicit regularization** in evolutionary dynamics. It leverages the mathematical analogy between the replicator equation and Bayesian inference to explore how organismal complexity evolves to match environmental complexity.
 
 
+![Simulation results](images/overfitness_github_fig.png "Selection dynamics of an optimal replicator/hypothesis")
+
+
 ---
 
 ## Repository Contents
